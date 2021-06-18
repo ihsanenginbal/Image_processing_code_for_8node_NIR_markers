@@ -1,4 +1,4 @@
-% Script for DIC (Digital Image Processing) of 8-node rectangular 
+% Script for Image Processing of 8-node square 
 % marker configuration for Painted Markers.
 % Coded by Dr. Ihsan Engin BAL
 % Professor in Earthquake Resistant Structures
