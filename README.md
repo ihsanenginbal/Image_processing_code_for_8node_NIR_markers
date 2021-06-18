@@ -10,6 +10,7 @@ i.e.bal@pl.hanze.nl
 
 
 LICENSING ---------------------------------------------------------------
+
 Information in this code is free. Please use this code as you please, 
 improve it, change it, do what you like. But do not forget to cite our paper:
 <<< Bal I.E., Dais D., Smyrou E. and Sarhosis V., 2021, 'Novel invisible markers 
