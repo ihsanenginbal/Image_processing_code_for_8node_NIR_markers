@@ -1,10 +1,10 @@
-% Script for DIC (Digital Image Processing) of 8-node rectangular
+% Script for Image Processing of 8-node square
 % marker configuration for Tape Markers.
 % Coded by Dr. Ihsan Engin BAL
 % Professor in Earthquake Resistant Structures
 % Hanze University of Applied Sciences, Groningen, Netherlands
 % v10.0 / January 2021
-% i.e.bal@pl.hanze.nl / iebal@icloud.com
+% i.e.bal@pl.hanze.nl 
 
 
 % LICENSING ---------------------------------------------------------------
