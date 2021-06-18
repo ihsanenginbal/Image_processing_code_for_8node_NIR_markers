@@ -9,9 +9,7 @@ v9.0 & v10.0 / January 2021
 i.e.bal@pl.hanze.nl
 
 
-LICENSING ---------------------------------------------------------------
-
-Information in this code is free. Please use this code as you please, 
+LICENSING : Information in this code is free. Please use this code as you please, 
 improve it, change it, do what you like. But do not forget to cite our paper:
 <<< Bal I.E., Dais D., Smyrou E. and Sarhosis V., 2021, 'Novel invisible markers 
 for monitoring cracked masonry structures', Construction and Building
