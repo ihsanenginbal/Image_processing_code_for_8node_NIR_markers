@@ -1,13 +1,12 @@
-# DIC_code_for_8node_NIR_markers
-This is a digital image processing code for 8-node near-infrared markers
+# Image processing code for 8node NIR markers
+This is an image processing code for 8-node near-infrared markers
 
-Script for DIC (Digital Image Processing) of 8-node rectangular
-marker configuration for Tape Markers.
+Script for 8-node square marker configuration.
 Coded by Dr. Ihsan Engin BAL
 Professor in Earthquake Resistant Structures
 Hanze University of Applied Sciences, Groningen, Netherlands
 v9.0 & v10.0 / January 2021
-i.e.bal@pl.hanze.nl / iebal@icloud.com
+i.e.bal@pl.hanze.nl
 
 
 LICENSING ---------------------------------------------------------------
