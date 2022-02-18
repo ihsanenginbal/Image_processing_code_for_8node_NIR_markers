@@ -14,4 +14,4 @@ improve it, change it, do what you like. But do not forget to cite our paper:
 <<< Bal I.E., Dais D., Smyrou E. and Sarhosis V., 2021, 'Novel invisible markers 
 for monitoring cracked masonry structures', Construction and Building
 Materials, Special Issue on Structural Health Monitoring and NDT for
-Masonry Structures, Volume: 300, Paper No: 124013, https://doi.org/10.1016/j.conbuildmat.2021.124013.>>>
+Masonry Structures, Volume: 300, Paper No: 124013, https://doi.org/10.1016/j.conbuildmat.2021.124013 >>>
